@@ -1,6 +1,6 @@
 # Data Analytics Projects
 
-This project is created for Data Analytics Internship.
+This repository contains multiple Data Analytics projects created for a Data Analytics Internship.
 
 Dataset Source:
 Kaggle
@@ -11,9 +11,15 @@ Tools Used:
 - Matplotlib
 - Jupyter Notebook
 
-Files:
-- dataset.csv
-- analysis.ipynb
+Projects:
+- Autocomplete and Autocorrect System
+- Cleaning Data
+- EDA Retail Sales
+- Fraud Detection
+- Google Play Store Analysis
+- Sentiment Analysis
+- Wine Quality Prediction
+- Housing Price Prediction (Linear Regression)
 
 Conclusion:
-This project analyzes the dataset and finds useful insights using data analytics.
+These projects analyze different datasets and generate useful insights using data analytics and visualization techniques.
